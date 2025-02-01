@@ -1,7 +1,7 @@
 {	
 	"name" : "Polish translation",
 	"description" : "Polish translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/polish-translation",
 	"modType" : "Translation",
@@ -12,9 +12,10 @@
 	},
 	"changelog" : 
 	{ 
-        	"1.0.2"   : [ "Translated AB campaigns" ],
-			"1.0.1"   : [ "convert to png" ],
-        	"1.0.0"   : [ "Initial release based on official russian translation (GOG)" ]
+        "1.0.3"   : [ "Translated Heroes Chronicles" ],
+		"1.0.2"   : [ "Translated AB campaigns" ],
+		"1.0.1"   : [ "convert to png" ],
+        "1.0.0"   : [ "Initial release based on official russian translation (GOG)" ]
 	},
 	"polish" : {
 		"name" : "Polskie tłumaczenie",
@@ -27,6 +28,7 @@
 	"translations" : [
 		"config/vcmi-polish/game.json",
 		"config/vcmi-polish/maps.json",
-		"config/vcmi-polish/campaigns.json"
+		"config/vcmi-polish/campaigns.json",
+		"config/vcmi-polish/chronicles.json"
 	]
 }
