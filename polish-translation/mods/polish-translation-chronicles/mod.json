@@ -1,0 +1,24 @@
+{	
+	"name" : "Chronicles (polish)",
+	"description" : "Polish translation of Heroes Chronicles.",
+	"version" : "1.0.0",
+	"author" : "3DO",
+	"contact" : "https://github.com/vcmi-mods/polish-translation",
+	"modType" : "Compatibility",
+	"language" : "polish",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [ 
+		"chronicles"
+	],
+	"translations" : [
+		"config/vcmi-polish-chronicles/chronicles.json"
+	]
+}
