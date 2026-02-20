@@ -1,7 +1,7 @@
 {	
 	"name" : "Polish translation",
-	"description" : "Polish translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.5",
+	"description" : "Polish translation of Heroes of Might and Magic III: Complete Edition and Heroes Chronicles",
+	"version" : "1.0.6",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/polish-translation",
 	"modType" : "Translation",
@@ -12,20 +12,21 @@
 	},
 	"changelog" : 
 	{ 
-        "1.0.5"   : [ "Fixed images palette" ],
-        "1.0.4"   : [ "Chronicles audio" ],
-        "1.0.3"   : [ "Translated Heroes Chronicles" ],
-		"1.0.2"   : [ "Translated AB campaigns" ],
-		"1.0.1"   : [ "Convert to png" ],
-        "1.0.0"   : [ "Initial release based on official polish translation (GOG)" ]
+		"1.0.6"   : [ "Naprawiono tło kampanii" ],
+		"1.0.5"   : [ "Naprawiono paletę obrazów" ],
+		"1.0.4"   : [ "Dodano dźwięk w Heroes Chronicles" ],
+		"1.0.3"   : [ "Przetłumaczono Heroes Chronicles" ],
+		"1.0.2"   : [ "Przetłumaczono kampanie Armageddon’s Blade" ],
+		"1.0.1"   : [ "Przekonwertowano do PNG" ],
+		"1.0.0"   : [ "Wydanie początkowe oparte na oficjalnym polskim tłumaczeniu (GOG)" ]
 	},
 	"polish" : {
 		"name" : "Polskie tłumaczenie",
-		"description" : "Polskie tłumaczenie gry Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Polskie tłumaczenie gry Heroes of Might and Magic III: Complete Edition i Heroes Chronicles"	
 	},
 	"german" : {
 		"name" : "Polnische Übersetzung",
-		"description" : "Polnische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Polnische Übersetzung von Heroes of Might and Magic III: Complete Edition und Heroes Chronicles"	
 	},
 	"translations" : [
 		"config/vcmi-polish/game.json",
