@@ -1,7 +1,7 @@
 {	
 	"name" : "Polish translation",
 	"description" : "Polish translation of Heroes of Might and Magic III: Complete Edition and Heroes Chronicles",
-	"version" : "1.0.7",
+	"version" : "1.0.8",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/polish-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.8"   : [ "Poprawki błędów i pomniejsze zmiany" ],
 		"1.0.7"   : [ "Ujednolicenie nazw banków stworzeń i opisów specjalizacji bohaterów z nazwami stworzeń" ],
 		"1.0.6"   : [ "Naprawiono tło kampanii" ],
 		"1.0.5"   : [ "Naprawiono paletę obrazów" ],
