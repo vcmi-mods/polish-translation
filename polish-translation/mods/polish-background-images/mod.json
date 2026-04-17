@@ -1,0 +1,28 @@
+{	
+	"name" : "Background Images (Polish)",
+	"description" : "Background images for Polish translation",
+	"version" : "1.0.0",
+	"author" : "3DO",
+	"contact" : "https://github.com/vcmi-mods/polish-translation",
+	"modType" : "Interface",
+	"language" : "polish",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"polish" : {
+		"name" : "Obrazy tła",
+		"description" : "Obrazy tła do polskiego tłumaczenia"	
+	},
+	"depends" : [ 
+		"polish-translation"
+	],
+    "conflicts" : [
+        "h3-themes"
+	[
+}
