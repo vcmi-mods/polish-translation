@@ -6413,5 +6413,14 @@
 	"terrain.core.snow.name": "Śnieg",
 	"terrain.core.subterra.name": "Podziemia",
 	"terrain.core.swamp.name": "Bagna",
-	"terrain.core.water.name": "Woda"
+	"terrain.core.water.name": "Woda",
+	"artifact.core.unusedArtifact1.description": "{Ubiór dyplomaty}\n\nTo jest niesamowicie intrygujący artefakt.",
+	"artifact.core.unusedArtifact1.event": "Odnajdujesz ubiór dyplomaty. Zdmuchujesz z niego kurz i chowasz do sakwy.",
+	"artifact.core.unusedArtifact1.name": "Ubiór dyplomaty",
+	"artifact.core.unusedArtifact2.description": "{Błoto neutralności}\n\nTo jest niesamowicie intrygujący artefakt.",
+	"artifact.core.unusedArtifact2.event": "Odnajdujesz błoto neutralności. Zdmuchujesz z niego kurz i chowasz do sakwy.",
+	"artifact.core.unusedArtifact2.name": "Błoto neutralności",
+	"artifact.core.unusedArtifact3.event": "Odnajdujesz pięść ogra. Zdmuchujesz z niej kurz i chowasz do sakwy.",
+	"artifact.core.unusedArtifact3.name": "Pięść ogra",
+	"artifact.core.unusedArtifact3.description": "{Pięść ogra}\n\nTo jest niesamowicie intrygujący artefakt."
 }
