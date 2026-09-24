@@ -33,6 +33,7 @@
 	"translations" : [
 		"config/vcmi-polish/game.json",
 		"config/vcmi-polish/maps.json",
-		"config/vcmi-polish/campaigns.json"
+		"config/vcmi-polish/campaigns.json",
+		"config/vcmi-polish/chronicles.json"
 	]
 }
